@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "age": 31,
+      "mail": "john.doe@example.com",
+      "phone": "88 00000 0000",
+      "cpf": "12345678910"
+    },
+    {
+      "name": "John Doe 1",
+      "age": 25,
+      "mail": "john.doe1@example.com",
+      "phone": "88 00000 0000",
+      "cpf": "12345678910"
+    }
+  ]
+}
